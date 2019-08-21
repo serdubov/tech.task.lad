@@ -166,10 +166,6 @@ export default class Main extends Component {
               />
             </MainScreenUser>
           </MainScreen>
-          <MainDescription>
-            <MainDescriptionTitle>Тестовое задание для</MainDescriptionTitle>
-            <MainDescriptionLogo src={Logo}/>
-          </MainDescription>
         </MainWrapperBlur>
         {
           winner.modal ? (
